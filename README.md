@@ -3,3 +3,6 @@
 1. create environment
 
         [python -m venv venv]
+        [. venv/bin/activate]
+        
+2. 
