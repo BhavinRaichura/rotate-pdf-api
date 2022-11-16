@@ -13,4 +13,4 @@
         
         python app.py
 
-![Screen shot](https://photos.app.goo.gl/b7PwSK4qticjsnhB6)
+![Screen shot](https://github.com/BhavinRaichura/rotate-pdf-api/blob/master/static/Screenshot%20from%202022-11-16%2022-20-40.png?raw=true)
