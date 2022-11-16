@@ -1,4 +1,5 @@
 # Rotate pdf
 
 1. create environment
-[python -m venv venv]
+2. 
+    [python -m venv venv]
