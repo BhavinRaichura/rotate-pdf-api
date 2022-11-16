@@ -1,11 +1,11 @@
 # Rotate pdf
 
-1. create environment and activate
+1. Create and activate environment
 
         python -m venv venv
         . venv/bin/activate
         
-2. Install dependancies
+2. Install dependencies
 
         pip install -r requirements.txt
 
